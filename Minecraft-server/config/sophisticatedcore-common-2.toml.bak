@@ -1,0 +1,7 @@
+
+#Common Settings
+[common]
+	enabledItems = ["sophisticatedbackpacks:everlasting_upgrade|true", "sophisticatedbackpacks:stack_upgrade_tier_4|true", "sophisticatedbackpacks:stack_upgrade_tier_2|true", "sophisticatedbackpacks:stack_upgrade_tier_3|true"]
+
+sophisticatedbackpacks:stack_upgrade_tier_1|true", "sophisticatedbackpacks:restock_upgrade|true"]
+
